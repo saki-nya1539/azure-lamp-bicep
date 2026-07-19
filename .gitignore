@@ -1,0 +1,4 @@
+﻿main.json
+azure-bicep-key
+azure-bicep-key.pub
+*.pem
